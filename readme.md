@@ -42,10 +42,3 @@ Bottom note
 ----
 
 Coded in 5 hours (decompiling, analysis, refactoring)
-
-License
-----
-
-It's stolen, refactored, code :/
-
-I don't give a damn if it gets deleted (y'know, DMCA, etc... all these American craplawthings).
